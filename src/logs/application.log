@@ -1,0 +1,12 @@
+júl. 24, 2024 1:14:39 DE. org.example.services.LoggerService logSevere
+SEVERE: Failed to parse line: WS02;A03;card;2900;6757619297057019;;2021.01.21; Error: Required payment information is missing for payment method: card
+júl. 24, 2024 1:14:39 DE. org.example.services.LoggerService logSevere
+SEVERE: Failed to parse line: WS01;A03;card;198;;5437588499034201;2021.01.182; Error: Text '2021.01.182' could not be parsed, unparsed text found at index 10
+júl. 24, 2024 1:14:39 DE. org.example.services.LoggerService logSevere
+SEVERE: Failed to parse line: WS02;A02;card;2904;;4908366099282204;2021.01.1; Error: Text '2021.01.1' could not be parsed at index 8
+júl. 24, 2024 1:15:30 DE. org.example.services.LoggerService logSevere
+SEVERE: Failed to parse line: WS02;A03;card;2900;6757619297057019;;2021.01.21; Error: Required payment information is missing for payment method: card
+júl. 24, 2024 1:15:30 DE. org.example.services.LoggerService logSevere
+SEVERE: Failed to parse line: WS01;A03;card;198;;5437588499034201;2021.01.182; Error: Text '2021.01.182' could not be parsed, unparsed text found at index 10
+júl. 24, 2024 1:15:30 DE. org.example.services.LoggerService logSevere
+SEVERE: Failed to parse line: WS02;A02;card;2904;;4908366099282204;2021.01.1; Error: Text '2021.01.1' could not be parsed at index 8
