@@ -14,13 +14,19 @@ This Java application manages customers and transactions for two online webshops
 ## Setup and Execution
 
 1. Ensure Java 17 SDK is installed on your system.
-2. Reload the Maven projects by navigating to (IntelliJ): `View -> Tool Windows -> Maven -> Reload All Maven Projects / Download Sources`.
-3. Compile and run the application using your Java IDE or from the command line:
-   - If using Maven, navigate to the app directory and execute:
+2. Ensure Maven is installed on your system.
+3. Compile and run the application using the command line:
+   - Using Maven, navigate to the app directory(`/javaBackend`) and execute:
      ```bash
-     mvn clean package
+     mvn compile
+     mvn package
      java -jar target/otp_task-1.0-SNAPSHOT-jar-with-dependencies.jar
      ```
+4. Or use IDE
+5. Ensure Java 17 SDK is installed on your system.
+2. Ensure Maven is installed on your system.
+6. Reload the Maven projects by navigating to (IntelliJ): `View -> Tool Windows -> Maven -> Reload All Maven Projects / Download Sources`.
+7. Run 'Main.java'
 
 ## Data Files
 
