@@ -10,7 +10,7 @@ public class LoggerService {
 
     static {
         try {
-            FileHandler fileHandler = new FileHandler("javaBackend/src/logs/application.log", true);
+            FileHandler fileHandler = new FileHandler("./src/logs/application.log", true);
             fileHandler.setFormatter(new SimpleFormatter());
             logger.addHandler(fileHandler);
             logger.setUseParentHandlers(false);

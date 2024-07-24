@@ -1,7 +1,7 @@
 package org.example.config;
 
 public class PathConfig {
-    public static final String BASE_PATH = "./javaBackend";
+    public static final String BASE_PATH = ".";
     public static final String LOGS_PATH = BASE_PATH + "/src/logs";
     public static final String DATA_PATH = BASE_PATH + "/data";
     public static final String REPORTS_PATH = BASE_PATH + "/reports";
